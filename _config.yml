@@ -10,11 +10,11 @@ description: Conference Webpage
 baseurl: "/pgsa"
 
 # LANDING PAGE
-# username: This will displayed on the landing page as your name.
-username: 2022 Conference Webpage 
+# username: This will displayed on the landing page as your name. We update to current year.
+username: 2022
 # typing_text: This will be typed before 'scroll down for more'.
-# > set this to your job title, e.g. Fullstack Developer
-typing_text: The Problem of Mourning 
+# > Leave as Conference Webpage. (set this to your job title, e.g. Fullstack Developer)
+typing_text: Conference Webpage 
 # email: Your E-Mail address for the email button.
 email: admin@slu-pgsa.edu
 # For every social button you want to display, set your username or userid
@@ -42,7 +42,7 @@ about_me_description: Some history about the department, maybe the journal, and 
 # > setting this to false, will omit the Skills section
 show_skills_card: true
 # about_me_title: The will be displayed as the title in the Skills section
-skills_title: This Year's Conference Theme
+skills_title: This Year's Theme: The Problem of Mourning 
 
 # TIMELINE SECTION
 # show_timeline_card:
@@ -50,7 +50,7 @@ skills_title: This Year's Conference Theme
 # > setting this to false, will omit the Timeline section
 show_timeline_card: false 
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: 2021 Theme and Topics 
+timeline_title: Some past year's themes 
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: https://example.com/
@@ -69,6 +69,7 @@ projects_title: Keynote Speakers
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
+# > I am thinking that this can be set to true once we have finalized the speakers. Then we just need a way to link to information about them.
 show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Accepted Submissions 
