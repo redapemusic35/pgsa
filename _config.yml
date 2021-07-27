@@ -2,16 +2,16 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: SLU-PGSA 2022 Conference 
+title: 2022 
 # description: This will be meta HTML tag content. This can be ignored.
-description: The Problem of Mourning 
+description: Conference Webpage 
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: "/pgsa"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: SLU-PGSA 
+username: The Problem of Mourning 
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Conference Webpage 
