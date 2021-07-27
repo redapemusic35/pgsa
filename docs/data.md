@@ -69,7 +69,7 @@ Example of a timeline entry:
 
 ```yml
 - title: Call for Papers 
-  title-url: https://example.com/
+  title-url: https://philevents.com/
   date: Sep 2019 - Present
   subtitle: Fullstack Developer
   tags:
