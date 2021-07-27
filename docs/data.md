@@ -10,7 +10,7 @@
 Example of a project:
 
 ```yml
-- name: Keynote 1 
+- name: Eleonore Stump 
   descr: "Born in a glass chalice handed to the human race by an army of elite celestial beings. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
   demo: https://example.com/
   tags:
@@ -28,8 +28,8 @@ Example of a project:
 Example of a framework:
 
 ```yml
-- name: Virtue
-  weight: 100 
+- name: The Problem of Mourning 
+  weight: 5 
 ```
 
 ## skills-languages.yml
@@ -40,7 +40,7 @@ Example of a framework:
 Example of a language:
 
 ```yml
-- name: CSS
+- name: Problem of Evil 
   weight: 3
 ```
 
@@ -52,7 +52,7 @@ Example of a language:
 Example of a dev tool:
 
 ```yml
-- name: Git
+- name: Suffering 
   weight: 3
 ```
 
@@ -68,7 +68,7 @@ Example of a dev tool:
 Example of a timeline entry:
 
 ```yml
-- title: Some guy 1
+- title: Call for Papers 
   title-url: https://example.com/
   date: Sep 2019 - Present
   subtitle: Fullstack Developer
