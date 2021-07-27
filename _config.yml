@@ -11,10 +11,10 @@ baseurl: "/pgsa"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: The Problem of Mourning 
+username: 2022 Conference Webpage 
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Conference Webpage 
+typing_text: The Problem of Mourning 
 # email: Your E-Mail address for the email button.
 email: admin@slu-pgsa.edu
 # For every social button you want to display, set your username or userid
