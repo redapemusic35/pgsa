@@ -11,10 +11,10 @@ baseurl: "/pgsa"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Saint Louis University 
+username: SLU-PGSA 
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Philosophy Graduate Student Association Conference Webpage 
+typing_text: Conference Webpage 
 # email: Your E-Mail address for the email button.
 email: admin@slu-pgsa.edu
 # For every social button you want to display, set your username or userid
@@ -50,7 +50,7 @@ skills_title: 2022 Theme
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Conference Theme
+timeline_title: 2021 Theme and Topics 
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: https://example.com/
@@ -69,7 +69,7 @@ projects_title: Keynote Speakers
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: true
+show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Accepted Submissions 
 
