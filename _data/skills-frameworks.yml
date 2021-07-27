@@ -1,17 +1,19 @@
+# > name: name of potential paper topics
 # > name: Name of your framework
-# > weight: Describes how good you know the framework - values from 1 up to 5
+# > weight: 5 Should only describe the primary conference theme while 1, 2, 3, and 4 should describe potential paper topics
+## Describes how good you know the framework - values from 1 up to 5
 #
 # Example of a framework
 # - name: Framework
 #   weight: 5
 
-- name: Angular
+- name: Problem of Mourning 
   weight: 5
 
-- name: AngularJS
+- name: Problem of Suffering 
   weight: 3
 
-- name: React
+- name: Problem of Evil 
   weight: 4
 
 - name: Node

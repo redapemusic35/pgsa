@@ -1,3 +1,4 @@
+# > Ignore all below this line, instead thinking about using this section to communicate updates to the conference, CFP, Registration opening, participants selected etc.
 # > title: Name of your timeline entry, university or work place
 # > title-url: Link to your timeline entry, university or work place
 # > date: Time span
@@ -17,9 +18,9 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
+- title: Confernece Venue  
+  title-url: https://www.youvisit.com/tour/photos/slu/139649?id=1033412/
+  date: Oct 2022 - Present
   subtitle: Fullstack Developer
   tags:
     - tag: React
@@ -28,10 +29,10 @@
     - tag: Rails
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: CFP 
+  title-url: https://philevents.org/event/show/87062/
+  date: Feb 2022 - Apr 2022
+  subtitle: View the Call for Papers 
   tags:
     - tag: Flutter
     - tag: Dart
