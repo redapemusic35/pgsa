@@ -11,11 +11,11 @@ Example of a project:
 
 ```yml
 - name: Keynote 1 
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+  descr: "Born in a glass chalice handed to the human race by an army of elite celestial beings. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
   demo: https://example.com/
   tags:
-    - tag: MongoDB
-    - tag: Express
+    - tag: Morality
+    - tag: Everything
     - tag: AngularJS
     - tag: Node
 ```
@@ -28,8 +28,8 @@ Example of a project:
 Example of a framework:
 
 ```yml
-- name: Jekyll
-  weight: 3
+- name: Virtue
+  weight: 100 
 ```
 
 ## skills-languages.yml
