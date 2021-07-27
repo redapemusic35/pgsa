@@ -11,10 +11,10 @@ baseurl: "/pgsa"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: admin 
+username: Saint Louis University 
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: Philosophy Graduate Student Association Conference Webpage 
 # email: Your E-Mail address for the email button.
 email: admin@slu-pgsa.edu
 # For every social button you want to display, set your username or userid
@@ -42,7 +42,7 @@ about_me_description: Some history about the department, maybe the journal, and 
 # > setting this to false, will omit the Skills section
 show_skills_card: true
 # about_me_title: The will be displayed as the title in the Skills section
-skills_title: Skills
+skills_title: 2022 Theme
 
 # TIMELINE SECTION
 # show_timeline_card:
