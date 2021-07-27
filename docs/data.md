@@ -10,7 +10,7 @@
 Example of a project:
 
 ```yml
-- name: project X
+- name: Keynote 1 
   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
   demo: https://example.com/
   tags:
@@ -68,7 +68,7 @@ Example of a dev tool:
 Example of a timeline entry:
 
 ```yml
-- title: airbnb
+- title: Some guy 1
   title-url: https://example.com/
   date: Sep 2019 - Present
   subtitle: Fullstack Developer
